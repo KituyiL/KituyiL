@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi. I'm Kituyi
 
-<!--
-**KituyiL/KituyiL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data science and Machine Learning enthusiast and I am enjoying learning to solve problems and trying to make things work. I find working with data interesting and frustrating at times.
+I am currently exploring Deep learning.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact
+<a
+href="https://forms.gle/XekpXW9vQdoo9oSDA"
+target="_blank">
+  <img
+src="https://img.shields.io/badge/To Contact-Click%20Here-blue?style=for-the-badge&logo=googleforms&logoColor=white" alt="Contact">
+</a>
+
+  
